@@ -58,7 +58,7 @@ git checkout [branch_name]
 git merge [branch_name]
 
 - Delete a branch
-git branch -d extra
+git branch -d [branch_name]
 
 - Push to GitHub
 git push
