@@ -53,3 +53,9 @@ git branch -a
 
 - Switch/move to a different branch
 git checkout [branch_name]
+
+- Merge branches (ensure you are in the master branch)
+git merge [branch_name]
+
+- Delete a branch
+git branch -d extra
