@@ -1,0 +1,23 @@
+//making a directory / folder
+mkdir [folder_name]
+
+//removing a directory / folder
+rmdir [folder_name]
+
+//Current directory
+pwd
+
+//List of the folder / directory
+ls
+
+//change directory
+cd [folder_name]
+
+//Go back to the last directory
+cd ..
+
+//Create file
+touch [file_name]
+
+//Removing a file
+rm [file_name]
